@@ -1,0 +1,7 @@
+socket协议 IO长协议 轮询
+
+客户端 client html页面
+服务端 server消息接受和转发
+
+
+socket.io node_module依赖模块集合
